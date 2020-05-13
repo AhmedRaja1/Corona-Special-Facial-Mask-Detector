@@ -1,3 +1,3 @@
-# facial_mask_classifier
+# Facial Mask Classifier
 # COVER
-https://github.com/AhmedRaja1/Corona-Special-Facial-Mask-Detector-/blob/master/Facial-mask.png
+<img src = "https://github.com/AhmedRaja1/Corona-Special-Facial-Mask-Detector-/blob/master/Facial-mask.png">
