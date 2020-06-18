@@ -1,5 +1,5 @@
 # Facial Mask Classifier
-# COVID 19' S
+# COVID 19' SP
 # COVER
 <img src = "https://github.com/AhmedRaja1/Corona-Special-Facial-Mask-Detector-/blob/master/Facial-mask.png">
 # BY <b>RAJA AHMED</b> from <b>PAKISTAN</b> 💚
